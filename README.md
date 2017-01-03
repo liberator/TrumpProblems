@@ -1,6 +1,8 @@
 # TrumpProblems
 ## A bug tracker for Donald Trump
 
+![Donald Trump with Pinochio nose](/Donald bignose 400.jpg)
+
 Trump is too outrageous for our puny mortal minds. We become numb to his repeated offenses.
 
 So, TrumpProblems lets us:
